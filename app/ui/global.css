@@ -1,3 +1,7 @@
+/**
+Tailwind is a CSS framework that speeds up the development process by allowing you
+to quickly write utility classes directly in your TSX markup.
+ */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
